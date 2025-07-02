@@ -1,0 +1,7 @@
+streamlit
+sshtunnel
+sqlalchemy
+langchain-community
+pymysql
+langchain-ollama
+paramiko
